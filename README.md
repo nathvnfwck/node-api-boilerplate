@@ -4,7 +4,7 @@
 node-api-boilerplate is a boilerplate for building Node.js web APIs inspired by Domain-Driven Design (DDD) and Clean Architecture principles. This project provides a solid foundation for developing scalable and maintainable APIs with a focus on code organization and separation of concerns.
 
 
-## Rodando localmente
+## Getting Started
 
 1. **Clone the repository:**
 
